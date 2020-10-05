@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Love YHY!
+The author is too lazy to write something here.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+###### Avatar
+Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
